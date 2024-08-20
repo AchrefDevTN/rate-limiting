@@ -129,7 +129,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 | Node.js | Express | Rate Limiting | License |
 |---------|---------|---------------|---------|
-| [![Node.js](https://img.shields.io/badge/Node.js-v14%2B-green)](https://nodejs.org/) | [![Express](https://img.shields.io/badge/Express-v4.18.2-blue)](https://expressjs.com/) | [![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-%E2%9C%94-brightgreen)](https://www.npmjs.com/package/express-rate-limit) | [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/your-username/rate-limiting/blob/main/LICENSE) |
+| [![Node.js](https://img.shields.io/badge/Node.js-v14%2B-green)](https://nodejs.org/) | [![Express](https://img.shields.io/badge/Express-v4.18.2-blue)](https://expressjs.com/) | [![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-%E2%9C%94-brightgreen)](https://www.npmjs.com/package/express-rate-limit) | [![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/AchrefDevTN/rate-limiting/blob/main/LICENSE) |
 
 
 
