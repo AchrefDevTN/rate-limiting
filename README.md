@@ -1,6 +1,6 @@
 # Rate Limiting
 
-![Rate Limiting](https://miro.medium.com/v2/resize:fit:800/0*yNQXf4t_ylDop7WY.jpg)
+![Rate Limiting](https://miro.medium.com/v2/resize:fit:720/format:webp/1*6y-sXg7h44QSa_R_Loeejw.jpeg)
 
 ## Overview
 
